@@ -1,2 +1,4 @@
 # typescript
-Various typescript examples
+
+## To Start
+npm install typescript
