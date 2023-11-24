@@ -11,4 +11,4 @@ npm install typescript
 * find and edit outDir and rootDir
 * * simply run `tsc`
 * * or `tsc --watch`
-* * then node --watch dist/name-of-file.js
+* * then `node --watch dist/name-of-file.js`
